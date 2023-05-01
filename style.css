@@ -1,0 +1,68 @@
+h2{
+    color: aqua;
+    text-decoration: underline;
+}
+label{
+    font-size: 20px;
+    font-weight: bolder;
+}
+input{
+    padding: 5px;
+    border-radius: 5px;
+}
+select{
+    width: 200px;
+    padding: 5px;
+    border-radius: 5px;
+}
+li{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+    /* border: 1px solid aqua; */
+    padding: 8px;
+    width: 100%;
+    /* background-color: #f2f2f2; */
+    color: blue;
+    border-color: #f2f2f2;
+}
+#btn{
+    margin-left: 10px;
+    background-color: aqua;
+    padding: 5px;
+    border-color: aqua;
+    border-radius: 5px;
+    color: red;
+    cursor: pointer;
+    font-weight: bold;
+}
+#btn:hover{
+ background-color: blue;
+ border-color: blue;
+ border-radius: 5px;
+}
+#deletebtn{
+    margin-left: 12px;
+    background-color: red;
+    border-radius: 2px solid red;
+    border-color: red;
+    border-radius: 5px;
+    color: antiquewhite;
+    cursor: pointer;
+    padding: 8px;
+    font-weight: bold;
+}
+#editbtn{
+    margin-left: 12px;
+    background-color: blue;
+    border-radius: 2px solid blue;
+    border-color: blue;
+    border-radius: 5px;
+    color: antiquewhite;
+    cursor: pointer;
+    padding: 8px;
+    font-weight: bold;
+}
+ul{
+    /* list-style: none; */
+}
